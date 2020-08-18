@@ -1,0 +1,26 @@
+{
+  "name": "octotree-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikkyconer/octotree-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikkyconer/octotree-server/issues"
+  },
+  "homepage": "https://github.com/vikkyconer/octotree-server#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
